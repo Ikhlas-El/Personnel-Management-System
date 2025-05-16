@@ -27,16 +27,19 @@ A comprehensive desktop application developed in **C#** using **Microsoft Visual
 
 ## 📸 Screenshots
 
-> `![System Shortcut](app_screenshots/17.png)`  
-> `![Startup Screen](app_screenshots/18.png)`
-> `![Login Page](app_screenshots/2.png)`
-> `![Dashboard](app_screenshots/6.png)`
-> `![Personnel Interface](app_screenshots/7.png)`
-> `![Search Interface](app_screenshots/8.png)`
-> `![Absence Interface](app_screenshots/13.png)`
-> `![Payment Interface](app_screenshots/14.png)`
-> `![Payment Receipt](app_screenshots/15.png)`
-> `![Example: Print Button](app_screenshots/10.png)`
+## 📸 Screenshots
+
+![System Shortcut](app_screenshots/17.png)  
+![Startup Screen](app_screenshots/18.png)  
+![Login Page](app_screenshots/2.png)  
+![Dashboard](app_screenshots/6.png)  
+![Personnel Interface](app_screenshots/7.png)  
+![Search Interface](app_screenshots/8.png)  
+![Absence Interface](app_screenshots/13.png)  
+![Payment Interface](app_screenshots/14.png)  
+![Payment Receipt](app_screenshots/15.png)  
+![Example: Print Button](app_screenshots/10.png)
+
 ---
 
 ### 📋 Prerequisites
