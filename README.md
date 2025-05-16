@@ -27,8 +27,6 @@ A comprehensive desktop application developed in **C#** using **Microsoft Visual
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ![System Shortcut](app_screenshots/17.png)  
 ![Startup Screen](app_screenshots/18.png)  
 ![Login Page](app_screenshots/2.png)  
